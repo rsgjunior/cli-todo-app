@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jzN7dADuIs=",
+  "success": true,
+  "projectFilePath": "/home/rsgjunior/github/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/rsgjunior/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
