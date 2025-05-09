@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.CommandLine;
 
-var rootCommand = new RootCommand("Gerenciador de todos");
+var rootCommand = new RootCommand("Todo tasks manager");
 
 rootCommand.AddCommand(CreateCommand.GetCommand());
 
